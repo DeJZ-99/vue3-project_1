@@ -1,4 +1,4 @@
-bb## 通用后台管理系统
+## 通用后台管理系统
 >采用<b>`vue3+vite`</b>构建</br>
 
 ## 编写语言
@@ -26,3 +26,4 @@ bb## 通用后台管理系统
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
+![login]("https://github.com/DeJZ-99/vue3-project/blob/main/public/imgs/login.png","登录界面")
