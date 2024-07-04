@@ -26,4 +26,4 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-![login]("https://github.com/DeJZ-99/vue3-project/blob/main/public/imgs/login.png","登录界面")
+![login](https://github.com/DeJZ-99/vue3-project/blob/main/public/imgs/login.png,"登录界面")
