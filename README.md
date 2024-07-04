@@ -1,5 +1,5 @@
 ## 通用后台管理系统
->采用<b style="color:yellow">`vue3+vite`</b>构建</br>
+>采用<b>`vue3+vite`</b>构建</br>
 
 ## 编写语言
 * <b>`JavaScript`</b></br>
