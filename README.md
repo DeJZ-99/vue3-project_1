@@ -26,4 +26,4 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-![image](/public/imgs/login.png)
+![image](public/imgs/login.png)
