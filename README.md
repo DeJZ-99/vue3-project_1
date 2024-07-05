@@ -26,9 +26,13 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-* 登陆页面
+* 登陆页面展示：
 ![image-login](public/imgs/login.png)</br>
+* 主页展示：
 ![image-home](public/imgs/home.png)</br>
+* 用户管理页面展示：
 ![image-user](public/imgs/user.png)</br>
+* 对话框展示：
 ![image-dialog](public/imgs/dialog.png)</br>
+* 面包屑展示：
 ![image-breadcrumb](public/imgs/breadcrumb.jpg)</br>
