@@ -26,8 +26,13 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-![image-login](public/imgs/login.png"登录页面")</br>
-![image-home](public/imgs/home.png"主页面")</br>
-![image-user](public/imgs/user.png"用户管理页面")</br>
-![image-dialog](public/imgs/dialog.png"对话框")</br>
-![image-breadcrumb](public/imgs/breadcrumb.jpg"面包屑")</br>
+* <b>登陆页面</b</br>
+![image-login](public/imgs/login.png)</br>
+* <b>主页面</bb</br>
+![image-home](public/imgs/home.png)</br>
+* <b>用户管理br</b></br>
+![image-user](public/imgs/user.png)</br>
+* <b>对话框</b></br>
+![image-dialog](public/imgs/dialog.png)</br>
+* <b>面包屑</b></br>
+![image-breadcrumb](public/imgs/breadcrumb.jpg)</br>
