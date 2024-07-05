@@ -26,7 +26,7 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-* <b>登陆页面</b></br>
+* <b>登陆页面</b>
 ![image-login](public/imgs/login.png)</br>
 * <b>主页面</b></br>
 ![image-home](public/imgs/home.png)</br>
