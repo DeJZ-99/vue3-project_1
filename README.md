@@ -26,11 +26,11 @@
 * <b>项目运行：`npm run dev`</b></br>
 
 ## 项目效果图
-* <b>登陆页面</b</br>
+* <b>登陆页面</b></br>
 ![image-login](public/imgs/login.png)</br>
-* <b>主页面</bb</br>
+* <b>主页面</b></br>
 ![image-home](public/imgs/home.png)</br>
-* <b>用户管理br</b></br>
+* <b>用户管理</b></br>
 ![image-user](public/imgs/user.png)</br>
 * <b>对话框</b></br>
 ![image-dialog](public/imgs/dialog.png)</br>
