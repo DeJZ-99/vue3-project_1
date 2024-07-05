@@ -2,7 +2,7 @@
 >采用<b>`vue3+vite`</b>构建</br>
 
 ## 编写语言
-* <b>`JavaScript`</b></br>
+* **`JavaScript`**</br>
 * <b>`Vue`</b></br>
 * <b>`Less`</b></br>
 * <b>`CSS`</b></br>
